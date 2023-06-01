@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18;
+    color:black;
+    background-color:#113182;
+    line-height: normal;
+
+;    
+}
+.teste{
+    text-align: center;
+}
+.conteiner{
+    margin: 0 auto;
+    width: 960px;
+    padding: 20px;
+    background-color: #ebe8e8;
+
+}
+.card{
+    float: left;
+    padding: 10px;
+    background-color: #cccccc;
+   margin-bottom: 10px;
+   border: 3px solid #113182;
+   border-radius: 15px;
+
+   
+}
+.card img{
+    float: left;
+    margin: 10px;
+    border: 2px solid black;
+   border-radius: 15px;
+    
+
+}
+.clear{
+    clear: both;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(88, 65, 214);
+    color: #fff;
+    padding: 15px;
+    border: 5px solid #fff ;
+    border-radius: 15px;
+    font-weight: bold;
+}
+.link {
+    margin-top: 20px;
+    text-align: right;
+}
+.title{
+    text-align: center;
+
+}
+.blue{
+    clear: both;
+display: block;
+text-align: center;
+margin-top: 20px;
+}
+
